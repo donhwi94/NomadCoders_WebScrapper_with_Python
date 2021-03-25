@@ -20,7 +20,7 @@ def extract_indeed_pages():
 
   return max_page
 
-# 존재하는 페이지의 url을 만드는 함수 
+# 존재하는 페이지의 url을 만드는 함수이다
 def extract_indeed_jobs(last_page):
   jobs = []
   for page in range(last_page):
@@ -28,4 +28,4 @@ def extract_indeed_jobs(last_page):
 
     print(result.status_code)
   
-  return jobs
+  return jobs 
