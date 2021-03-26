@@ -21,7 +21,7 @@ def extract_indeed_pages():
   return max_page
 
 
-# 채용 공고에서 채용 직무와 회사명, 회사 위치 가져오는 함수
+# 채용 공고에서 채용 직무와 회사명, 회사 위치, 지원 링크 가져오는 함수
 def extract_job(html):
   #  title = result.find("h2", {"class":"title"}) # 각 채용공고에서 title을 가져온다
   #  anchor = title.find('a')["title"]
