@@ -43,7 +43,7 @@ def extract_job(html):
     location = html.find("div", {"class": "recJobLoc"})["data-rc-loc"]
 
     job_id = html["data-jk"] # 지원하기 링크를 가져오기 위한 id 추출 
-    print(job_id)
+    #print(job_id)
 
     return {
         'title': title,
@@ -57,7 +57,7 @@ def extract_job(html):
 def extract_jobs(last_page):
     jobs = []
     for page in range(last_page):
-      print(f"=====Scrapping page {page}=====")
+      #print(f"=====Scrapping page {page}=====")
       result = requests.get(f"{URL}&start={page*LIMIT}")
       soup = BeautifulSoup(result.text, "html.parser")
       results = soup.find_all(

@@ -1,9 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# LIMIT = 10
 URL = "https://stackoverflow.com/jobs?q=python"
-#URL = "https://stackoverflow.com/jobs?q=python&l=Seoul%2C+%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD&d=20&u=Km"
 
 # 마지막 페이지 가져오기
 def get_last_page():
@@ -16,7 +14,7 @@ def get_last_page():
   return int(last_page)
 
 
-# 채용 공고에서 채용 직무와 회사명, 회사 위치 가져오는 함수
+# 채용 공고에서 채용 직무와 회사명, 회사 위치, 지원 링크 가져오는 함수
 def extract_job(html):
   title = html.find("h2", {"class":"mb4"}).find('a')["title"]
 #  company = html.find("h3").find('span').get_text(strip=True)
@@ -29,8 +27,11 @@ def extract_job(html):
 #  location = company_row[1]
 
   company, location = html.find("h3", {"class":"fc-black-700"}).find_all("span", recursive=False)
-  print(company.get_text(strip=True), location.get_text(strip=True))
-  return {'title':title, 'company':company, 'location':location}
+  company = company.get_text(strip=True)
+  location = location.get_text(strip=True)
+  job_id = html["data-jobid"]
+
+  return {'title':title, 'company':company, 'location':location, "apply_link":f"https://stackoverflow.com/jobs/{job_id}"}
 
 
 # 존재하는 페이지의 url 생성 후 request하여 각 페이지의 채용 공고를 가져오는 함수
@@ -41,7 +42,7 @@ def extract_jobs(last_page):
     soup = BeautifulSoup(result.text, "html.parser")
     results = soup.find_all("div", {"class":"-job"})
 
-    print(f"--------{page+1}----------")
+    #print(f"--------{page+1}----------")
 
     for result in results:
       job = extract_job(result)
@@ -54,4 +55,4 @@ def extract_jobs(last_page):
 def get_jobs():
   last_page = get_last_page()
   jobs = extract_jobs(last_page)
-  return []
+  return jobs
