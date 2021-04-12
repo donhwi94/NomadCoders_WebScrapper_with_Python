@@ -1,5 +1,5 @@
   <h1 align="center"> Web Scrapper with Python </h1>
-<img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img align="center" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+<dir align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a></dir>
 <br/><br/>
 __Python으로 웹 스크래퍼 만들기__ 강의를 수강하며 실습한 코드입니다.</center>
 <br/><br/>
