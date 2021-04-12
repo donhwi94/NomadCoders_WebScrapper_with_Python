@@ -13,10 +13,10 @@
 ## 🗂 폴더 구조
 * scrapper_with_Flask : Flask와 연동하여 스크래핑한 데이터를 웹 페이지에 표시하는 웹 스크래퍼 코드입니다.
 * Code_Challenge : python 2주 챌린지를 진행하며 수행했던 과제 폴더입니다.
-
+<br/>
 ## 📦 패키지
 * requests version 2.25.1 (Python HTTP for Humans.)
 * BeautifulSoup version 4.9.3 (Screen-scraping library)
 * Flask version 1.1.2 (A simple framework for building complex web applications.)
-
-## Code Challenge
+<br/>
+## ➰ Code Challenge
