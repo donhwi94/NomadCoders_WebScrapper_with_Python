@@ -1,7 +1,7 @@
 # <center>NomadCoders_WebScrapper_with_Python
 __Python으로 웹 스크래퍼 만들기__ 강의를 수강하며 실습한 코드입니다.</center>
 
-<img srd="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<br/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<br/>
 강의 수강 : 2021-03-21 ~ 2021-03-28<br/>
 챌린지 : 2021-03-29 ~ 2021-04-11
 
