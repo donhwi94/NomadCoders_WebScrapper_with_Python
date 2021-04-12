@@ -7,10 +7,10 @@
   <img src="https://img.shields.io/badge/repl.it-667881?style=flat-square&logo=repl.it&logoColor=white"/></a>
 </p>
 <br/>
-__Python으로 웹 스크래퍼 만들기__ 강의를 수강하며 실습한 코드입니다.</center>
+<p>__Python으로 웹 스크래퍼 만들기__ 강의를 수강하며 실습한 코드입니다</p>
 <br/><br/>
-2021-03-21 ~ 2021-03-28 강의 수강<br/>
-2021-03-29 ~ 2021-04-11 챌린지 
+<p align="center">2021-03-21 ~ 2021-03-28 강의 수강</p>
+<p align="center">2021-03-29 ~ 2021-04-11 챌린지</p> 
 
 ## 🗂 폴더
 * scrapper_with_Flask : Flask와 연동하여 스크래핑한 데이터를 웹 페이지에 표시하는 웹 스크래퍼 코드입니다.
