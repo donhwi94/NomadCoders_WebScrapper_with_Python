@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Directive by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{url_for('static', filename='assets/css/main.css')}}" />
+	</head>
+	<body class="is-preload">
+			<div id="header">
+        <div class="container medium">
+				  <span class="logo icon fa-paper-plane"></span>
+				  <h1>Find Remote Jobs.</h1>
+				  <p>I support your choice</p><br>
+
+          <form action="/" method="get">       
+					  <div class="col-12">
+              <input type="text" placeholder='Enter the job you want to find and press enter' required name="word"/>
+					  </div>
+          </form>
+          {% if word %}
+            <p>Scroll Down, Please</p>
+          {% endif %}
+        </div>
+			</div>
+			<div id="main">
+        {% if word %}
+				<header class="major container medium">
+          <h2>{{resultsNumber}} {{word}} Jobs list</h2>
+          <a href="/export?word={{word}}" target="_blank">Export</a> | 
+          <a href="/">Clear</a>
+				</header>
+        <table>
+          <tr>
+            <th width=50%><h3>Title</h3></th>
+            <th width=30%><h3>Company</h3></th>
+            <th width=20%><h3>Apply Link</h3></th>
+          </tr>
+          {% for job in jobs %}
+          <tr>
+            <td align=center width=50%><span>{{job.title}}</span></td>
+            <td align=center width=30%><span>{{job.company}}</span></td>
+            <td align=center width=20%><a href="{{job.url}}" target="_blank"><span>URL</span></a></td>
+          </tr>
+          {% endfor %}
+        </table>
+        {% endif %}
+			</div>
+			<div id="footer">
+				<div class="container medium">
+					<header class="major last">
+						<h2>God Bless You.</h2>
+					</header>
+				</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="{{url_for('static', filename='assets/js/jquery.min.js')}}"></script>
+			<script src="{{url_for('static', filename='assets/js/browser.min.js')}}"></script>
+			<script src="{{url_for('static', filename='assets/js/breakpoints.min.js')}}"></script>
+			<script src="{{url_for('static', filename='assets/js/util.js')}}"></script>
+			<script src="{{url_for('static', filename='assets/js/main.js')}}"></script>
+
+	</body>
+</html>
