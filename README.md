@@ -25,10 +25,10 @@
 
 
 ## ➰ Code Challenge 졸업 과제 
-<h3><Find Remote Jobs 메인 페이지></h3>
-<img width="1552" alt="스크린샷 2021-04-13 오후 10 22 18" src="https://user-images.githubusercontent.com/80886445/114562797-cb59d400-9ca9-11eb-9ecd-08aef77486a7.png">
+<h3>Find Remote Jobs 메인 페이지</h3>
+<img width="400" alt="스크린샷 2021-04-13 오후 10 22 18" src="https://user-images.githubusercontent.com/80886445/114562797-cb59d400-9ca9-11eb-9ecd-08aef77486a7.png">
 
-<
+<h3>검색창에 키워드 입력 시, Stackoverflow.com/weworkremotely.com/remoteok.io 사이트에서 해당 키워드의 채용 공고를 스크래핑 합니다.</h3>
 
 
 
