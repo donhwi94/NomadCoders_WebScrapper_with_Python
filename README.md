@@ -24,25 +24,13 @@
 * Flask version 1.1.2 (A simple framework for building complex web applications.)
 
 
-## ➰ Code Challenge
-<details>
-  <summary><strong>Challenge Task</strong></summary>
-  <ul>
-    <li>Day 1 : Quiz</li>
-    <li>Day 2 Code Challenge</li>
-    <img width="583" alt="스크린샷 2021-04-13 오전 11 25 53" src="https://user-images.githubusercontent.com/80886445/114557323-867f6e80-9ca4-11eb-9d70-0cdf27fa756f.png">
-    <li>Day 3 Code Challenge</li> 
-https://user-images.githubusercontent.com/80886445/114557377-913a0380-9ca4-11eb-8ade-94682c82750f.mov
-    
-    ![화면 기록 2021-04-13 오전 11 33 38 (1)](https://user-images.githubusercontent.com/80886445/114558578-ca26a800-9ca5-11eb-86f8-de4cfce14f6e.gif)
+## ➰ Code Challenge 졸업 과제 
+<h3><Find Remote Jobs 메인 페이지></h3>
+<img width="1552" alt="스크린샷 2021-04-13 오후 10 22 18" src="https://user-images.githubusercontent.com/80886445/114562797-cb59d400-9ca9-11eb-9ecd-08aef77486a7.png">
 
-    <li>Day 4 Code Challenge</li>
-    <li>Day 5 Code Challenge</li>
-    <li>Day 6 Code Challenge</li>
-    <li>Day 7 : 휴식</li>
-    <li>Day 8 Code Challenge</li> 
-    <li>Day 9, 10 Code Challenge</li>
-    <li>Day 11, 12 Code Challenge</li>
-    <li>Day 13, 14 졸업 과제</li> 
-  </ul>
-</details>
+<
+
+
+
+
+
