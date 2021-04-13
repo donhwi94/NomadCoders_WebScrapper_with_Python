@@ -26,10 +26,24 @@
 
 ## ➰ Code Challenge 졸업 과제 
 - Find Remote Jobs 메인 페이지
-<img width="400" alt="스크린샷 2021-04-13 오후 10 22 18" src="https://user-images.githubusercontent.com/80886445/114562797-cb59d400-9ca9-11eb-9ecd-08aef77486a7.png">
+<img width="500" alt="스크린샷 2021-04-13 오후 10 22 18" src="https://user-images.githubusercontent.com/80886445/114562797-cb59d400-9ca9-11eb-9ecd-08aef77486a7.png">
 
-- 검색창에 키워드 입력 시, Stackoverflow.com/weworkremotely.com/remoteok.io 사이트에서 해당 키워드의 채용 공고를 스크래핑 합니다. 스크래핑이 완료되면 Scroll Down. Please 가 문구가 제공됩니다. 
-<img width="1552" alt="스크린샷 2021-04-13 오후 10 23 58" src="https://user-images.githubusercontent.com/80886445/114563503-6b176200-9caa-11eb-85d7-ff2efa788879.png">
+- 검색창에 키워드 입력 시, Stackoverflow.com/weworkremotely.com/remoteok.io 사이트에서 해당 키워드의 채용 공고를 스크래핑 합니다. 
+- 스크래핑이 완료되면 Scroll Down. Please문구가 제공되며, 하단에 채용 공고 목록이 조회됩니다.
+<div>
+<img width="500" alt="스크린샷 2021-04-13 오후 10 23 58" src="https://user-images.githubusercontent.com/80886445/114563503-6b176200-9caa-11eb-85d7-ff2efa788879.png">
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 05" src="https://user-images.githubusercontent.com/80886445/114563743-a6b22c00-9caa-11eb-95ae-03f1382e2331.png">
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 15" src="https://user-images.githubusercontent.com/80886445/114563807-b5004800-9caa-11eb-8e0b-e4f8c9061d5a.png">
+</div>
+
+- 각 채용 공고 Apply Link의 url을 클릭하면 해당 채용 공고 페이지가 제공됩니다.
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 28" src="https://user-images.githubusercontent.com/80886445/114563997-e1b45f80-9caa-11eb-8589-3bf9324a3c2a.png">
+
+- 상단의 export 버튼을 누르면 채용 공고 목록이 .csv 파일로 다운로드 됩니다. 
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 36" src="https://user-images.githubusercontent.com/80886445/114564070-f264d580-9caa-11eb-89d6-0882c52e97cd.png">
+
+- 상단의 clear 버튼을 누르면 Find Remote Jobs 메인 페이지로 이동합니다
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 44" src="https://user-images.githubusercontent.com/80886445/114564200-12949480-9cab-11eb-95a0-6b89b7320c17.png">
 
 
 
