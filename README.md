@@ -33,6 +33,9 @@
     <img width="583" alt="스크린샷 2021-04-13 오전 11 25 53" src="https://user-images.githubusercontent.com/80886445/114557323-867f6e80-9ca4-11eb-9d70-0cdf27fa756f.png">
     <li>Day 3 Code Challenge</li> 
 https://user-images.githubusercontent.com/80886445/114557377-913a0380-9ca4-11eb-8ade-94682c82750f.mov
+    
+    ![화면 기록 2021-04-13 오전 11 33 38 (1)](https://user-images.githubusercontent.com/80886445/114558578-ca26a800-9ca5-11eb-86f8-de4cfce14f6e.gif)
+
     <li>Day 4 Code Challenge</li>
     <li>Day 5 Code Challenge</li>
     <li>Day 6 Code Challenge</li>
