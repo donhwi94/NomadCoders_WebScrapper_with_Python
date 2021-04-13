@@ -52,7 +52,7 @@
 <img width="500" alt="스크린샷 2021-04-13 오후 10 24 44" src="https://user-images.githubusercontent.com/80886445/114564200-12949480-9cab-11eb-95a0-6b89b7320c17.png">
 </div>
 
-
+ps. 디자인의 경우 html+CSS 무료 템플릿을 활용했습니다.
 
 
 
