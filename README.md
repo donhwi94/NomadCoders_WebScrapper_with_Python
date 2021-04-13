@@ -40,11 +40,16 @@
 <img width="500" alt="스크린샷 2021-04-13 오후 10 24 28" src="https://user-images.githubusercontent.com/80886445/114563997-e1b45f80-9caa-11eb-8589-3bf9324a3c2a.png">
 
 - 상단의 export 버튼을 누르면 채용 공고 목록이 .csv 파일로 다운로드 됩니다. 
+<div>
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 05" src="https://user-images.githubusercontent.com/80886445/114564733-90f13680-9cab-11eb-83ea-a0cba8af7cf9.png">
 <img width="500" alt="스크린샷 2021-04-13 오후 10 24 36" src="https://user-images.githubusercontent.com/80886445/114564070-f264d580-9caa-11eb-89d6-0882c52e97cd.png">
+</div>
 
 - 상단의 clear 버튼을 누르면 Find Remote Jobs 메인 페이지로 이동합니다
+<div>
+<img width="500" alt="스크린샷 2021-04-13 오후 10 24 05" src="https://user-images.githubusercontent.com/80886445/114564767-98b0db00-9cab-11eb-8fb8-3c44be18f4b5.png">
 <img width="500" alt="스크린샷 2021-04-13 오후 10 24 44" src="https://user-images.githubusercontent.com/80886445/114564200-12949480-9cab-11eb-95a0-6b89b7320c17.png">
-
+</div>
 
 
 
