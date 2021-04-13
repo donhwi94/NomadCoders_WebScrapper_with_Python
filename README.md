@@ -28,8 +28,9 @@
 - Find Remote Jobs 메인 페이지
 <img width="500" alt="스크린샷 2021-04-13 오후 10 22 18" src="https://user-images.githubusercontent.com/80886445/114562797-cb59d400-9ca9-11eb-9ecd-08aef77486a7.png">
 
-- 검색창에 키워드 입력 시, Stackoverflow.com/weworkremotely.com/remoteok.io 사이트에서 해당 키워드의 채용 공고를 스크래핑 합니다. 
-- 스크래핑이 완료되면 Scroll Down. Please문구가 제공되며, 하단에 채용 공고 목록이 조회됩니다.
+- 검색창에 키워드 입력 시, Stackoverflow.com, weworkremotely.com, remoteok.io 사이트에서 해당 키워드의 채용 공고를 스크래핑 합니다. 
+- 스크래핑이 완료되면 Scroll Down. Please 문구가 제공되며, 하단에 채용 공고 목록이 조회됩니다.
+- 한 번 스크래핑을 수행하면 해당 목록이 리스트에 저장되어 같은 키워드로 조회 시 스크래핑을 수행하지 않고 리스트에 저장된 목록을 불러와 조회하는 데 걸리는 시간이 단축됩니다.
 <div>
 <img width="500" alt="스크린샷 2021-04-13 오후 10 23 58" src="https://user-images.githubusercontent.com/80886445/114563503-6b176200-9caa-11eb-85d7-ff2efa788879.png">
 <img width="500" alt="스크린샷 2021-04-13 오후 10 24 05" src="https://user-images.githubusercontent.com/80886445/114563743-a6b22c00-9caa-11eb-95ae-03f1382e2331.png">
