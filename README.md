@@ -27,14 +27,16 @@
 ## ➰ Code Challenge
 <details>
   <summary><strong>Challenge Task</strong></summary>
-  * Day 1 : Quiz
-  * Day 2 Code Challenge
-  * Day 3 Code Challenge 
-  * Day 4 Code Challenge 
-  * Day 5 Code Challenge 
-  * Day 6 Code Challenge
-  * Day 7 : 휴식 
-  * Day 8 Code Challenge 
-  * Day 9, 10 Code Challenge
-  * Day 11, 12 Code Challenge
-  * Day 13, 14 졸업 과제 
+  <ul>
+    <li>Day 1 : Quiz</li>
+    <li>Day 2 Code Challenge</li>
+    <li>Day 3 Code Challenge</li>
+    <li>Day 4 Code Challenge</li>
+    <li>Day 5 Code Challenge</li>
+    <li>Day 6 Code Challenge</li>
+    <li>Day 7 : 휴식</li>
+    <li>Day 8 Code Challenge</li> 
+    <li>Day 9, 10 Code Challenge</li>
+    <li>Day 11, 12 Code Challenge</li>
+    <li>Day 13, 14 졸업 과제</li> 
+  </ul>
