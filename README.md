@@ -14,7 +14,8 @@
 </p>
 
 ## 🗂 폴더 구조
-* scrapper_with_Flask : Flask와 연동하여 스크래핑한 데이터를 웹 페이지에 표시하는 웹 스크래퍼 코드입니다.
+* Indeed와 Stackoverflow 사이트에서 채용 공고를 스크래핑하고 .csv 파일로 다운로드하는 코드입니다.
+* scrapper_with_Flask : 기존 코드에 Flask를 연동하여 스크래핑한 데이터를 웹 페이지에 표시하는 웹 스크래퍼 코드입니다.
 * Code_Challenge : python 2주 챌린지를 진행하며 수행했던 과제 폴더입니다.
 
 
