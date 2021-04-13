@@ -26,7 +26,7 @@
 
 ## ➰ Code Challenge
 <details>
-  <summary>Challenge Task</summary>
+  <summary><h3>Challenge Task</h3></summary>
   * Day 1 : Quiz
   * Day 2 Code Challenge
   * Day 3 Code Challenge 
