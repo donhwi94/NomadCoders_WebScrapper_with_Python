@@ -9,8 +9,9 @@
 <br/>
 <p align="center">Python으로 웹 스크래퍼 만들기 강의를 수강하며 실습한 코드입니다</p>
 <p align="center">2021-03-21 ~ 2021-04-04 강의 수강<br/>2021-03-29 ~ 2021-04-11 챌린지</p> 
-
-<img width="600" alt="스크린샷 2021-04-12 오후 6 42 02" src="https://user-images.githubusercontent.com/80886445/114555486-b594e080-9ca2-11eb-91da-8619cb90bcdd.png" align="center">
+<p align="center">
+<img width="500" alt="스크린샷 2021-04-12 오후 6 42 02" src="https://user-images.githubusercontent.com/80886445/114555486-b594e080-9ca2-11eb-91da-8619cb90bcdd.png">
+</p>
 
 ## 🗂 폴더 구조
 * scrapper_with_Flask : Flask와 연동하여 스크래핑한 데이터를 웹 페이지에 표시하는 웹 스크래퍼 코드입니다.
