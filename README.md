@@ -11,7 +11,7 @@
 <p align="center">2021-03-21 ~ 2021-04-04 강의 수강<br/>2021-03-29 ~ 2021-04-12 챌린지</p> 
 <p align="center">
 <img width="400" alt="스크린샷 2021-04-12 오후 6 42 02" src="https://user-images.githubusercontent.com/80886445/114555486-b594e080-9ca2-11eb-91da-8619cb90bcdd.png">
-![KakaoTalk_Photo_2021-04-20-02-36-31](https://user-images.githubusercontent.com/80886445/115279216-60b10880-a181-11eb-98f9-40b7f5ed01c2.jpeg)
+<img width="400" alt="KakaoTalk_Photo_2021-04-20-02-36-31" src="https://user-images.githubusercontent.com/80886445/115279216-60b10880-a181-11eb-98f9-40b7f5ed01c2.jpeg">
 </p>
 
 ## 🗂 폴더 구조
