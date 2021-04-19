@@ -54,7 +54,7 @@
 </div>
 
 ## 🎓 졸업
-- 우수 졸업생이 되어버렸다✌🏼
+- 파이썬 챌린지 10기 우수 졸업생이 되어버렸다✌🏼
 <p align="center">
 <img width="400" alt="스크린샷 2021-04-20 오전 2 40 53" src="https://user-images.githubusercontent.com/80886445/115279601-e5038b80-a181-11eb-852a-d9b20c20fde2.png">
 </p>
