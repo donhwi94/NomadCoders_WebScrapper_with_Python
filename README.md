@@ -10,8 +10,7 @@
 <p align="center">Python으로 웹 스크래퍼 만들기 강의를 수강하며 실습한 코드입니다</p>
 <p align="center">2021-03-21 ~ 2021-04-04 강의 수강<br/>2021-03-29 ~ 2021-04-12 챌린지</p> 
 <p align="center">
-<img width="455" alt="스크린샷 2021-04-12 오후 6 42 02" src="https://user-images.githubusercontent.com/80886445/114555486-b594e080-9ca2-11eb-91da-8619cb90bcdd.png">
-<img width="400" alt="스크린샷 2021-04-20 오전 2 40 53" src="https://user-images.githubusercontent.com/80886445/115279601-e5038b80-a181-11eb-852a-d9b20c20fde2.png">
+<img width="400" alt="스크린샷 2021-04-12 오후 6 42 02" src="https://user-images.githubusercontent.com/80886445/114555486-b594e080-9ca2-11eb-91da-8619cb90bcdd.png">
 </p>
 
 ## 🗂 폴더 구조
@@ -54,7 +53,7 @@
 <img width="500" alt="스크린샷 2021-04-13 오후 10 24 44" src="https://user-images.githubusercontent.com/80886445/114564200-12949480-9cab-11eb-95a0-6b89b7320c17.png">
 </div>
 
-ps) 디자인의 경우 html+CSS 무료 템플릿을 활용했습니다.
-
+## 🎓 졸업
+<img width="400" alt="스크린샷 2021-04-20 오전 2 40 53" src="https://user-images.githubusercontent.com/80886445/115279601-e5038b80-a181-11eb-852a-d9b20c20fde2.png">
 
 
